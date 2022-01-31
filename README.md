@@ -12,7 +12,7 @@
     </td>
     <td>
       <img
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishi508&layout=compact&hide_title=true&langs_count=8"
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishi508&layout=compact&hide_title=true&langs_count=8&hide=C%23"
            alt="hrishi508's GitHub Stats"
            height="200px"
            width="auto"
