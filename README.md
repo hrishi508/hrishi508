@@ -21,9 +21,9 @@
   </tr>
 </table>
 
+<!-- - 🌱 I’m currently learning Web Development. -->
 - 🌱 I’m currently pursuing **Computer Science** at BITS Pilani with **Minor in Data Science**
 - 🔭 I’m currently working on Gravitational Wave detection and Semi, Self-Supervised Learning. 
-<!-- - 🌱 I’m currently learning Web Development. -->
 - 🤔 I’m looking for help with [this](https://github.com/hrishi508/Self-and-Semi-Supervised-Learning/issues/2) issue.
 - 📫 How to reach me: **k.hrishi2010@gmail.com**
 
