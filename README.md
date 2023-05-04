@@ -4,7 +4,7 @@
   <tr>
     <td>
       <img
-           src="https://github-readme-stats.vercel.app/api?username=hrishi508&show_icons=true&hide_title=false&include_all_commits=true&count_private=true"
+           src="https://github-readme-stats-sigma-five.vercel.app/api?username=hrishi508&show_icons=true&hide_title=false&include_all_commits=true&count_private=true"
            alt="hrishi508's GitHub Stats"
            height="200px"
            width="auto"
@@ -12,7 +12,7 @@
     </td>
     <td>
       <img
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrishi508&layout=compact&hide_title=false&langs_count=8&hide=C%23"
+           src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hrishi508&layout=compact&hide_title=false&langs_count=8&hide=C%23"
            alt="hrishi508's GitHub Stats"
            height="200px"
            width="auto"
